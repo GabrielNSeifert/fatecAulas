@@ -1,0 +1,10 @@
+C:\Users\lab5.LABTEC\Desktop\exercicio1\exercicio1\bin\Debug\exercicio1.exe.config
+C:\Users\lab5.LABTEC\Desktop\exercicio1\exercicio1\bin\Debug\exercicio1.exe
+C:\Users\lab5.LABTEC\Desktop\exercicio1\exercicio1\bin\Debug\exercicio1.pdb
+C:\Users\lab5.LABTEC\Desktop\exercicio1\exercicio1\obj\Debug\exercicio1.csprojAssemblyReference.cache
+C:\Users\lab5.LABTEC\Desktop\exercicio1\exercicio1\obj\Debug\exercicio1.Form1.resources
+C:\Users\lab5.LABTEC\Desktop\exercicio1\exercicio1\obj\Debug\exercicio1.Properties.Resources.resources
+C:\Users\lab5.LABTEC\Desktop\exercicio1\exercicio1\obj\Debug\exercicio1.csproj.GenerateResource.cache
+C:\Users\lab5.LABTEC\Desktop\exercicio1\exercicio1\obj\Debug\exercicio1.csproj.CoreCompileInputs.cache
+C:\Users\lab5.LABTEC\Desktop\exercicio1\exercicio1\obj\Debug\exercicio1.exe
+C:\Users\lab5.LABTEC\Desktop\exercicio1\exercicio1\obj\Debug\exercicio1.pdb
