@@ -1,0 +1,14 @@
+C:\Users\lab5.LABTEC\Documents\Menus\Menus\bin\Debug\Menus.exe.config
+C:\Users\lab5.LABTEC\Documents\Menus\Menus\bin\Debug\Menus.exe
+C:\Users\lab5.LABTEC\Documents\Menus\Menus\bin\Debug\Menus.pdb
+C:\Users\lab5.LABTEC\Documents\Menus\Menus\obj\Debug\Menus.csprojAssemblyReference.cache
+C:\Users\lab5.LABTEC\Documents\Menus\Menus\obj\Debug\Menus.Form1.resources
+C:\Users\lab5.LABTEC\Documents\Menus\Menus\obj\Debug\Menus.Properties.Resources.resources
+C:\Users\lab5.LABTEC\Documents\Menus\Menus\obj\Debug\Menus.csproj.GenerateResource.cache
+C:\Users\lab5.LABTEC\Documents\Menus\Menus\obj\Debug\Menus.csproj.CoreCompileInputs.cache
+C:\Users\lab5.LABTEC\Documents\Menus\Menus\obj\Debug\Menus.exe
+C:\Users\lab5.LABTEC\Documents\Menus\Menus\obj\Debug\Menus.pdb
+C:\Users\lab5.LABTEC\Documents\Menus\Menus\obj\Debug\Menus.Clientes.resources
+C:\Users\lab5.LABTEC\Documents\Menus\Menus\obj\Debug\Menus.Fornecedor.resources
+C:\Users\lab5.LABTEC\Documents\Menus\Menus\obj\Debug\Menus.Funcionário.resources
+C:\Users\lab5.LABTEC\Documents\Menus\Menus\obj\Debug\Menus.Produtos.resources
