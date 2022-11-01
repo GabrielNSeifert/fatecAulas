@@ -1,0 +1,10 @@
+C:\Users\lab5.LABTEC\Desktop\classes\classes\bin\Debug\classes.exe.config
+C:\Users\lab5.LABTEC\Desktop\classes\classes\bin\Debug\classes.exe
+C:\Users\lab5.LABTEC\Desktop\classes\classes\bin\Debug\classes.pdb
+C:\Users\lab5.LABTEC\Desktop\classes\classes\obj\Debug\classes.csprojAssemblyReference.cache
+C:\Users\lab5.LABTEC\Desktop\classes\classes\obj\Debug\classes.Form1.resources
+C:\Users\lab5.LABTEC\Desktop\classes\classes\obj\Debug\classes.Properties.Resources.resources
+C:\Users\lab5.LABTEC\Desktop\classes\classes\obj\Debug\classes.csproj.GenerateResource.cache
+C:\Users\lab5.LABTEC\Desktop\classes\classes\obj\Debug\classes.csproj.CoreCompileInputs.cache
+C:\Users\lab5.LABTEC\Desktop\classes\classes\obj\Debug\classes.exe
+C:\Users\lab5.LABTEC\Desktop\classes\classes\obj\Debug\classes.pdb
